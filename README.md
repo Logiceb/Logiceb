@@ -40,7 +40,7 @@
 <a href="https://www.hackerearth.com/@logiceb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@logiceb" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aglogibu24kd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aglogibu24kd" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/logiceb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="logiceb" height="30" width="40" /></a>
-<a href="https://discord.gg/ag.logi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ag.logi" height="30" width="40" /></a>
+<a href="https://discord.gg/3dCNwADckm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ag.logi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
